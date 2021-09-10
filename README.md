@@ -1,6 +1,6 @@
 # CPE106L
 
-** September 10, 2021 **
+**September 10, 2021**
 ## Laboratory Experiment 1
 ----------------------------------
 
