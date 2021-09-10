@@ -1,4 +1,4 @@
 # CPE106L
 
-##Laboratory Experiment 1
+## Laboratory Experiment 1
 ----------------------------------
