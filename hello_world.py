@@ -1,7 +1,11 @@
-print("Hello World")
+def mean(x):
+    total = 0
+    for number in x:
+        total += number
+    return total/len(x)
 
-print("First Change")
+def main():
+    y = [1,2,3]
+    print(mean(y))
 
-print("Second Change")
-
-print("Fixed bug demo")
+main()
