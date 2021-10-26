@@ -2,8 +2,6 @@
 
 ## Requirements
 
----
-
 <ol>
   <li>Python 3.7</li>
   <li>requests from the urllib standard Python library</li>
@@ -11,8 +9,6 @@
 </ol
 
 ## Installation
-
----
 
 In the terminal:
 
