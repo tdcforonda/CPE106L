@@ -17,8 +17,8 @@ In the terminal:
 ```
 pip install matplotlib
 pip install numpy
-git clone https://www.github.com/tdcforonda/data-visualization
-cd data-visualization
+git clone https://www.github.com/tdcforonda/CPE106L
+cd CPE106L
 git checkout origin/lab-report-7-data-vis
 python simple_plot.py
 ```
