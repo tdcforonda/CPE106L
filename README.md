@@ -6,7 +6,7 @@
   <li>Python 3.7</li>
   <li>requests from the urllib standard Python library</li>
   <li>BeautifulSoup from the br4 library</li>
-</ol
+</ol>
 
 ## Installation
 
