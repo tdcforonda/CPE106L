@@ -1,5 +1,7 @@
 # Web Scraper Project
 
+In partial fulfillment of the program Software Design Laboratory (CPE106L).
+
 ## Requirements
 
 <ol>
