@@ -19,5 +19,6 @@ pip install matplotlib
 pip install numpy
 git clone https://www.github.com/tdcforonda/data-visualization
 cd data-visualization
+git checkout origin/lab-report-7-data-vis
 python simple_plot.py
 ```
