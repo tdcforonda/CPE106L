@@ -19,6 +19,5 @@ pip install matplotlib
 pip install numpy
 git clone https://www.github.com/tdcforonda/data-visualization
 cd data-visualization
-python scrapetest.py
-python regex_scraper.py
+python simple_plot.py
 ```
