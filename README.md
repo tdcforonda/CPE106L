@@ -17,8 +17,8 @@ In the terminal:
 ```
 pip install requests
 pip install beautifulsoup4
-git clone https://www.github.com/tdcforonda/webscraping-project
-cd webscraping-project
+git clone https://www.github.com/tdcforonda/CPE106L
+cd CPE106L
 git checkout origin/lab-report-7-web-scrape
 python scrapetest.py
 python regex_scraper.py
