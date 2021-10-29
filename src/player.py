@@ -1,5 +1,4 @@
-from PILE import Pile
-
+from pile import Pile
 
 class Player:
 

@@ -1,4 +1,4 @@
-from GAME import Game
+from src.game import Game
 import time
 
 
