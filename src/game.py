@@ -1,7 +1,7 @@
-from player import Player
-from pile import Pile
-from card import Card
-from deck import CardDeck
+from .player import Player
+from .pile import Pile
+from .card import Card
+from .deck import CardDeck
 import time
 
 
